@@ -1,4 +1,4 @@
-# World Population Analysis - PRODIGY_DS_01
+# World Population Analysis 
 
 ## Objective
 
